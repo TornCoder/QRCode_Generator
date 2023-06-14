@@ -12,4 +12,4 @@ Feel free to modify the code to suit your needs and create an engaging QR Code G
 <br><br>
 ScreenShot Of Demo:
 ![image](https://github.com/ismartboi-07/QRCode_Generator/assets/136259634/44bee8de-f5c1-4ab9-9b9f-b2a8853a3f0e)
-<br>**Try By Yourself:-**
+<br>**Try By Yourself:- https://qrcodes-generator.pages.dev**
