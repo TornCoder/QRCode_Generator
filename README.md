@@ -13,3 +13,4 @@ Feel free to modify the code to suit your needs and create an engaging QR Code G
 ScreenShot Of Demo:
 ![image](https://github.com/ismartboi-07/QRCode_Generator/assets/136259634/44bee8de-f5c1-4ab9-9b9f-b2a8853a3f0e)
 <br>**Try By Yourself:- https://qrcodes-generator.pages.dev**
+<br><img src="https://user-images.githubusercontent.com/136259634/245551159-6bc56ad8-d6e1-47f9-9c6b-73fc86fe6b83.png" alt="Eye" width="30" height="30" /> [**`Follow Me On Github`**](https://github.com/ismartboi-07)
